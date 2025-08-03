@@ -1,0 +1,45 @@
+[
+  {
+    "service": "Analytics/Aggregator Service",
+    "issues": [
+      {
+        "task": "Daily registration count",
+        "description": "Aggregate and report user registrations daily.",
+        "labels": [
+          "analytics"
+        ]
+      },
+      {
+        "task": "Failed login trends",
+        "description": "Aggregate failed login attempts for security insights.",
+        "labels": [
+          "analytics"
+        ]
+      },
+      {
+        "task": "Account growth by week",
+        "description": "Weekly analytics on account creations.",
+        "labels": [
+          "analytics",
+          "event"
+        ]
+      },
+      {
+        "task": "Export reports",
+        "description": "Support exporting analytics data as CSV/JSON.",
+        "labels": [
+          "analytics",
+          "api"
+        ]
+      },
+      {
+        "task": "MongoDB views for fast querying",
+        "description": "Pre-aggregated views in MongoDB for efficient queries.",
+        "labels": [
+          "analytics",
+          "database"
+        ]
+      }
+    ]
+  }
+]
